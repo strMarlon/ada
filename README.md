@@ -9,3 +9,5 @@
 # arquivos
 
 ## Salvando alterações no Git
+
+* uso do comando git restore
